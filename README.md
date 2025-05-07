@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F76BC5&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Irika+Ishani+%F0%9F%92%AB;Electrical+Engineer+in+training+%7C+Python+fanatic;Data+Nerd+with+a+Finance+Flair" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F76BC5&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Hi%2C+I+am+Irika+%E2%9C%A8;I+accidentally+majored+in+wires...;...but+fell+in+love+with+code.;Python+%7C+Dashboards+%7C+Finance+Nerd" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -8,40 +8,48 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👋 About Me
 
-Hi, I'm **Irika Ishani**, an Electrical Engineering undergrad who spends as much time debugging Python code as I do analyzing power systems. Based in **New Delhi**, but my mind’s usually in the cloud (sometimes AWS, sometimes just daydreaming). I'm passionate about **Data Science**, **Finance Tech**, and building tools that make real-time decisions less chaotic and more clever.  
-Whether it's wrangling CSVs, modeling machine learning workflows, or visualizing stock trends with Plotly, I enjoy giving structure to messy data and meaning to numbers. I like building dashboards that make people say “whoa” — and I’ll keep doing it until Tableau starts charging me rent.
+Hey, I’m **Irika** – an Electrical Engineering student who found `try:` and never looked back.  
+I may have enrolled for wires and transformers, but it turns out I vibe more with **`pandas`**, **dashboards**, and **data frames** than Ohm's Law.
 
-I believe every dataset has a story. Some are thrillers, some are tragedies — I try to be the editor who turns them into bestsellers.
-
----
-
-## 🚀 Tech Arsenal
-
-| Languages & Frameworks | Data & ML Stack | Dev Tools |
-|------------------------|------------------|------------|
-| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)<br>![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spaCy&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)<br>![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white) |
+⚡ **Day job:** Surviving engineering labs.  
+💻 **Real job:** Building data dashboards and pretending Excel is obsolete.  
+💰 **Dream:** To automate the stock market... or at least my expenses.  
+🎯 **Special skill:** Can break working code just by looking at it.
 
 ---
 
-## 🎓 Education
+## 🧰 Tech I Make Crawl for Me
 
-📘 **B.Tech in Electrical Engineering**  
-🏫 *School of Engineering & Technology, Central University of Haryana*  
-📆 *2022 – 2026*  
-📊 *Current SGPA: 7.64 (working on it, coffee-fueled progress in motion)*
-
----
-
-## 📊 Side Projects That Make Me Look Cool
-
-- 📈 **Indian Market Indices Dashboard**: Built with Streamlit, this app fetches live market data from Moneycontrol, lets you compare sectors, visualize stock trends, and even download CSVs for your inner analyst.  
-- 💸 **Option Profit Predictor (in-progress)**: Using Angel and Gemini APIs to bring predictive analytics to options trading — because who doesn’t want to look smart while losing money in the market?
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=64F4AC&width=1000&lines=%F0%9F%90%8D+Python+++%F0%9F%A4%96+SQL+++%F0%9F%A4%A1+NumPy+++%F0%9F%93%88+Pandas+++%F0%9F%A7%A0+Scikit-Learn+++%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+TensorFlow+++%F0%9F%AA%9C+spaCy+++%F0%9F%93%9A+Tableau+++%F0%9F%93%A2+Streamlit+++%F0%9F%A7%91%E2%80%8D%F0%9F%94%A7+Git" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 🎓 Academic Plot Twist
+
+**B.Tech in Electrical Engineering**  
+*Central University of Haryana (2022–2026)*  
+📈 SGPA: 7.64 (aka “Python > Power Systems”)
+
+Sometimes I calculate bus admittance matrices...  
+But mostly, I just want to know if `np.nan != np.nan` is true (it is, by the way).
+
+---
+
+## 📊 My Favourite Child
+
+### 🧠 Indian Market Indices Dashboard  
+Built with **Streamlit**, powered by live **Moneycontrol** data, and sprinkled with **Plotly** magic.  
+Filter sectors, download CSVs, and pretend you're a hedge fund analyst.
+
+🔗 [View Repo](https://github.com/irikaishani/Indian-Market-Indices-Dashboard)
+
+---
+
+## 📈 GitHub Stats (Proof I Don’t Sleep)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=irikaishani&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" width="48%" />
@@ -50,7 +58,7 @@ I believe every dataset has a story. Some are thrillers, some are tragedies — 
 
 ---
 
-## 🌐 Let's Connect!
+## 🌐 Connect with Me (or Send Memes)
 
 <p align="center">
   <a href="mailto:ishaniirika5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -61,5 +69,5 @@ I believe every dataset has a story. Some are thrillers, some are tragedies — 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F76BC5&center=true&vCenter=true&width=1000&lines=%F0%9F%92%96+Python+%7C+SQL+%7C+Pandas+%7C+NumPy+%7C+scikit-learn+%7C+TensorFlow+%7C+spaCy+%7C+Streamlit+%7C+Tableau+%7C+Git+%F0%9F%92%96" />
 </p>
