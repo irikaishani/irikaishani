@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F76BC5&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Hi%2C+I+am+Irika+%E2%9C%A8;I+accidentally+majored+in+wires...;...but+fell+in+love+with+code.;Python+%7C+Dashboards+%7C+Finance+Nerd" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F76BC5&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Hi%2C+I+am+Irika+%E2%9C%A8;Electrical+Engineering+Student+%7C+Data+Nerd;Python+%7C+Dashboards+%7C+Machine+Learning" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -8,19 +8,19 @@
 
 ---
 
-## 👋 About Me
+## 👩‍💻 About Me
 
-Hey, I’m **Irika** – an Electrical Engineering student who found `try:` and never looked back.  
-I may have enrolled for wires and transformers, but it turns out I vibe more with **`pandas`**, **dashboards**, and **data frames** than Ohm's Law.
+Hey there! I'm **Irika**, an Electrical Engineering student who spends more time debugging code than measuring voltages.  
+Based in New Delhi, I’m passionate about building data-driven dashboards, exploring finance tech, and using Python like it’s a second language.
 
-⚡ **Day job:** Surviving engineering labs.  
-💻 **Real job:** Building data dashboards and pretending Excel is obsolete.  
-💰 **Dream:** To automate the stock market... or at least my expenses.  
-🎯 **Special skill:** Can break working code just by looking at it.
+- 📊 I speak **data**, not just in graphs but in code.  
+- 🔍 I’m curious about real-time data, predictive modeling, and automation.  
+- ⚙️ Currently pretending Streamlit apps are cooler than actual power grids.  
+- ☕ Can survive without sleep, but not without `pandas`.
 
 ---
 
-## 🧰 Tech I Make Crawl for Me
+## 🧪 Tools & Technologies I Work With
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=64F4AC&width=1000&lines=%F0%9F%90%8D+Python+++%F0%9F%A4%96+SQL+++%F0%9F%A4%A1+NumPy+++%F0%9F%93%88+Pandas+++%F0%9F%A7%A0+Scikit-Learn+++%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+TensorFlow+++%F0%9F%AA%9C+spaCy+++%F0%9F%93%9A+Tableau+++%F0%9F%93%A2+Streamlit+++%F0%9F%A7%91%E2%80%8D%F0%9F%94%A7+Git" />
@@ -28,28 +28,27 @@ I may have enrolled for wires and transformers, but it turns out I vibe more wit
 
 ---
 
-## 🎓 Academic Plot Twist
+## 🧩 Featured Project
+
+### 📈 Indian Market Indices Dashboard  
+A live, interactive dashboard for Indian stock market data.  
+Built using **Streamlit**, **Plotly**, and real-time data from **Moneycontrol**, it offers filtering, sector comparisons, and downloadable reports.
+
+🔗 [Check it out](https://github.com/irikaishani/Indian-Market-Indices-Dashboard)
+
+---
+
+## 🎓 Education
 
 **B.Tech in Electrical Engineering**  
 *Central University of Haryana (2022–2026)*  
-📈 SGPA: 7.64 (aka “Python > Power Systems”)
+📌 Current SGPA: **7.64**
 
-Sometimes I calculate bus admittance matrices...  
-But mostly, I just want to know if `np.nan != np.nan` is true (it is, by the way).
-
----
-
-## 📊 My Favourite Child
-
-### 🧠 Indian Market Indices Dashboard  
-Built with **Streamlit**, powered by live **Moneycontrol** data, and sprinkled with **Plotly** magic.  
-Filter sectors, download CSVs, and pretend you're a hedge fund analyst.
-
-🔗 [View Repo](https://github.com/irikaishani/Indian-Market-Indices-Dashboard)
+Fun fact: I know how to solve power flow equations, but I'd rather solve business problems with Python.
 
 ---
 
-## 📈 GitHub Stats (Proof I Don’t Sleep)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=irikaishani&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" width="48%" />
@@ -58,7 +57,7 @@ Filter sectors, download CSVs, and pretend you're a hedge fund analyst.
 
 ---
 
-## 🌐 Connect with Me (or Send Memes)
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:ishaniirika5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
