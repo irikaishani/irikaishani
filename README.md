@@ -10,11 +10,14 @@
 
 ## 👩‍💻 About Me
 
-Hey! I’m **Irika**, an Electrical Engineering student with a deep love for Python, data, and occasionally fixing circuits. I spend a bit too much time turning numbers into useful information rather than just keeping track of voltage levels, but hey, data is where the real power lies, right?
+Hey! I’m **Irika**, an Electrical Engineering student who spends more time turning data into insights than reading circuit diagrams. I’m passionate about **Python**, **Machine Learning**, and **Data Science**. Currently, I’m on a mission to make real-time data more accessible through interactive dashboards and predictive models.
 
-Currently obsessed with building **data-driven dashboards** and tinkering with **machine learning** models. You’ll mostly find me coding up interactive apps with **Streamlit**, diving into real-time market data, and pretending my **SQL** skills are as sharp as my coffee addiction.
+Based in **New Delhi**, I love tackling problems in data, finance, and anything that makes my brain work faster than a CPU.
 
-If you’re into **Python**, **predictive modeling**, or just like to talk tech, feel free to connect. Let’s make some cool stuff together!
+You’ll usually find me:
+- 📊 Creating interactive data dashboards with **Streamlit** and **Plotly**.
+- 🧠 Exploring machine learning and predictive analytics.
+- 📚 Always learning something new (usually involving a cup of coffee).
 
 ---
 
@@ -42,7 +45,7 @@ Built using **Streamlit**, **Plotly**, and real-time data from **Moneycontrol**,
 *Central University of Haryana (2022–2026)*  
 📌 Current SGPA: **7.64**
 
-Fun fact: I don't know how to solve power flow equations, but I'd solve business problems with Python pretty well.
+Fun fact: I know how to solve power flow equations, but I prefer solving business problems with Python.
 
 ---
 
