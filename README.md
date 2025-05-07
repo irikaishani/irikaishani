@@ -69,5 +69,5 @@ Fun fact: I dont't know how to solve power flow equations, but I can solve busin
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F76BC5&center=true&vCenter=true&width=1000&lines=%F0%9F%92%96+Python+%7C+SQL+%7C+Pandas+%7C+NumPy+%7C+scikit-learn+%7C+TensorFlow+%7C+spaCy+%7C+Streamlit+%7C+Tableau+%7C+Git+%F0%9F%92%96" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F76BC5&center=true&vCenter=true&width=1000&lines=%F0%9F%92%96%7C+Git+%F0%9F%92%96" />
 </p>
