@@ -45,7 +45,7 @@ Built using **Streamlit**, **Plotly**, and real-time data from **Moneycontrol**,
 *Central University of Haryana (2022–2026)*  
 📌 Current SGPA: **7.64**
 
-Fun fact: I know how to solve power flow equations, but I prefer solving business problems with Python.
+Fun fact: I dont't know how to solve power flow equations, but I can solve business problems with Python pretty well.
 
 ---
 
