@@ -1,4 +1,7 @@
-# Hi, I'm Irika Ishani 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F76BC5&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Irika" alt="Typing SVG" />
+</h1>
+
 
 I'm an Electrical Engineering undergrad passionate about data science, financial analytics, and building real-time tools that make data actionable. I combine my engineering mindset with a strong grasp of Python and APIs to deliver insightful, scalable projects. Currently exploring the intersection of finance and machine learning through practical applications.
 
