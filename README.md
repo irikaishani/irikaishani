@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F76BC5&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Irika+%E2%9C%A8;Electrical+Engineering+Student;Data+Analyst+%7C+Python+Developer;Finance+Tech+%7C+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F76BC5&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Irika+Ishani+%F0%9F%92%AB;Electrical+Engineer+in+training+%7C+Python+fanatic;Data+Nerd+with+a+Finance+Flair" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -10,52 +10,34 @@
 
 ## 👩‍💻 About Me
 
-🎓 Electrical Engineering student at **Central University of Haryana (2022–2026)**  
-📍 Based in **New Delhi, India**  
-💡 I’m passionate about **Data Science**, **Finance Tech**, and **Predictive Modeling**  
-🔧 Skilled in **Python**, **SQL**, **Data Visualization**, and **Machine Learning**  
-🚀 Always exploring new tools and real-time data solutions
+Hi, I'm **Irika Ishani**, an Electrical Engineering undergrad who spends as much time debugging Python code as I do analyzing power systems. Based in **New Delhi**, but my mind’s usually in the cloud (sometimes AWS, sometimes just daydreaming). I'm passionate about **Data Science**, **Finance Tech**, and building tools that make real-time decisions less chaotic and more clever.  
+Whether it's wrangling CSVs, modeling machine learning workflows, or visualizing stock trends with Plotly, I enjoy giving structure to messy data and meaning to numbers. I like building dashboards that make people say “whoa” — and I’ll keep doing it until Tableau starts charging me rent.
+
+I believe every dataset has a story. Some are thrillers, some are tragedies — I try to be the editor who turns them into bestsellers.
 
 ---
 
-## 🔧 Skills & Tools
+## 🚀 Tech Arsenal
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spaCy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+| Languages & Frameworks | Data & ML Stack | Dev Tools |
+|------------------------|------------------|------------|
+| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)<br>![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spaCy&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)<br>![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
 ## 🎓 Education
 
-📖 **B.Tech in Electrical Engineering**  
+📘 **B.Tech in Electrical Engineering**  
 🏫 *School of Engineering & Technology, Central University of Haryana*  
-📅 *Aug 2022 – Jul 2026*  
-📊 *Current SGPA: 7.64*
+📆 *2022 – 2026*  
+📊 *Current SGPA: 7.64 (working on it, coffee-fueled progress in motion)*
 
 ---
 
-## 💼 Experience
+## 📊 Side Projects That Make Me Look Cool
 
-### 🧠 Strategy & Data Research Intern — *Magnocode Tech Pvt Ltd*  
-📍 Remote | 🗓 Sep 2024 – Mar 2025  
-- Spearheaded DPIIT startup certification process  
-- Secured $5,000 in AWS credits for AI infrastructure  
-- Conducted market analysis and product strategy  
-- Created data instrumentation plans
-
-### ⚡ Electrical Engineering Intern — *MPPKVVCL*  
-📍 Singrauli, MP | 🗓 Jul 2024 – Aug 2024  
-- Conducted equipment tests at 33/11 kV substations  
-- Analyzed voltage/current data and anomalies  
-- Worked with MDMS tools for smart meter data
+- 📈 **Indian Market Indices Dashboard**: Built with Streamlit, this app fetches live market data from Moneycontrol, lets you compare sectors, visualize stock trends, and even download CSVs for your inner analyst.  
+- 💸 **Option Profit Predictor (in-progress)**: Using Angel and Gemini APIs to bring predictive analytics to options trading — because who doesn’t want to look smart while losing money in the market?
 
 ---
 
