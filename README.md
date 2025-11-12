@@ -43,7 +43,7 @@ Built using **Streamlit**, **Plotly**, and real-time data from **Moneycontrol**,
 
 **B.Tech in Electrical Engineering**  
 *Central University of Haryana (2022–2026)*  
-📌 Current SGPA: **7.64**
+📌 Current SGPA: **8.29**
 
 Fun fact: I dont't know how to solve power flow equations, but I can solve business problems with Python pretty well.
 
