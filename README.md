@@ -29,7 +29,8 @@ You’ll usually find me:
 ## 🧪 Tools & Technologies I Work With
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=64F4AC&width=1000&lines=%F0%9F%90%8D+Python+++%F0%9F%97%84+SQL+++%F0%9F%A7%A0+NumPy+++%F0%9F%93%88+Pandas+++%E2%9A%A1+FastAPI+++%F0%9F%93%9D+Pydantic+++%F0%9F%A7%B5+LangChain+++%F0%9F%A4%96+LLMs+++%E2%9A%99%EF%B8%8F+AI+Agents+++%F0%9F%8C%90+React+++%F0%9F%94%A7+Git+++%F0%9F%9A%80+Streamlit+++%F0%9F%A7%AA+TensorFlow+++%F0%9F%A7%AD+spaCy" alt="Typing SVG - Tools" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=64F4AC&width=1000&lines=%F0%9F%90%8D+Python+++%F0%9F%97%84+SQL+++%F0%9F%93%88+Pandas+++%F0%9F%A7%A0+NumPy+++%E2%9A%A1+FastAPI+++%F0%9F%93%9D+Pydantic+++%F0%9F%A7%B5+LangChain+++%F0%9F%A4%96+LLMs+++%E2%9A%99%EF%B8%8F+AI+Agents+++%F0%9F%94%A7+Docker+++%F0%9F%94%8C+Linux+++%F0%9F%94%A5+Git" />
+
 </p>
 
 ---
