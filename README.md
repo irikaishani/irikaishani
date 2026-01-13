@@ -11,7 +11,7 @@
 
 ## 👩‍💻 About Me
 
-Hey! I’m Irika, a Python-focused backend and AI engineer who enjoys building clean, reliable systems and solving real problems through thoughtful engineering. I work with FastAPI, Pydantic, REST APIs, and SQL to build scalable backend services and data-driven features.
+Hey! I’m Irika, a Python-focused Data and AI enthusiast who enjoys building clean, reliable systems and solving real problems through thoughtful engineering. I work with FastAPI, Pydantic, REST APIs, and SQL to build scalable backend services and data-driven features.
 
 I’m currently exploring Generative AI, LLM integration, RAG pipelines, LangChain, and AI Agents to create intelligent, automated solutions that enhance decision-making and product capabilities.
 
