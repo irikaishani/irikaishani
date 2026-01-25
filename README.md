@@ -11,19 +11,7 @@
 
 ## 👩‍💻 About Me
 
-Hey! I’m Irika, a Python-focused Data and AI enthusiast who enjoys building clean, reliable systems and solving real problems through thoughtful engineering. I work with FastAPI, Pydantic, REST APIs, and SQL to build scalable backend services and data-driven features.
-
-I’m currently exploring Generative AI, LLM integration, RAG pipelines, LangChain, and AI Agents to create intelligent, automated solutions that enhance decision-making and product capabilities.
-
-You’ll usually find me:
-
-⚙️ Building backend services and APIs with FastAPI
-
-🧠 Experimenting with GenAI, LLMs, and AI automation
-
-🛠 Exploring RAG & agent-based workflows with LangChain
-
-☕ Learning continuously and improving my engineering mindset
+Hey, I’m Irika 👋 I am learning backend systems with Python and FastAPI, and turning data into useful features with SQL,Pandas,etc. Lately, I’ve been exploring Generative AI, RAG, LangChain, and AI agents to create smarter, more automated solutions.
 
 ---
 
