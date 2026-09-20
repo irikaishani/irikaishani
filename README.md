@@ -11,8 +11,7 @@
 
 ## 👩‍💻 About Me
 
-Hey, I’m Irika 👋 I am learning backend systems with Python and FastAPI, and turning data into useful features with SQL,Pandas,etc. Lately, I’ve been exploring Generative AI, RAG, LangChain, and AI agents to create smarter, more automated solutions.
-
+Hey, I’m Irika. I am a Machine Learning Engineer Intern specializing in ML algorithms and Data Science concepts. I am interested in GenAI, LLMs, and intelligent systems which provide meaningful solutions and I'm continuously improving my technical skills and working on industry projects to create impactful solutions.
 ---
 
 ## 🧪 Tools & Technologies I Work With
